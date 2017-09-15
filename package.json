@@ -1,0 +1,23 @@
+{
+  "name": "webclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Miguel Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.8.2",
+    "mysql": "^2.14.1",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.2"
+  }
+}
